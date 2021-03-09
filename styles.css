@@ -73,7 +73,7 @@ nav {
 }
 
 .banner {
-    background-image: url(sources/header.jpg);
+    background-image: url(header.jpg);
     background-size: cover;
     padding-top: 32.5rem;
     padding-bottom: 12.5rem;
